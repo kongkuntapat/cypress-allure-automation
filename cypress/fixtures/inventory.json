@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Mock Sauce Labs Backpack",
+    "price": 29.99,
+    "image": "sauce-labs-backpack.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mock Sauce Labs Bike Light",
+    "price": 9.99,
+    "image": "sauce-labs-bike-light.jpg"
+  }
+]
