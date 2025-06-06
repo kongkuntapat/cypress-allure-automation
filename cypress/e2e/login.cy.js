@@ -1,5 +1,5 @@
 describe("Login", () => {
-  beforEach(() => {
+  beforeEach(() => {
     cy.visit("/");
   });
 
