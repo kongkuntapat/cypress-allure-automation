@@ -16,6 +16,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Clean old Allure results
+        run: rm -rf allure-results
+
       - name: Run Cypress tests
         uses: cypress-io/github-action@v6
         with:
